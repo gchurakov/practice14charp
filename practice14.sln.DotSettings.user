@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fadmin_002FRiderProjects_002Fpractice13_002FMyNewCollection_002Fbin_002FDebug_002FMyNewCollection_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fadmin_002FRiderProjects_002Fpractice13_002Fpractice13_002Fbin_002FDebug_002FEngineLib_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fadmin_002FRiderProjects_002Fpractice13_002Fpractice13_002Fbin_002FDebug_002FMyCollection_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/admin/RiderProjects/practice13/MyNewCollection/bin/Debug/MyNewCollection.dll" /&gt;
+  &lt;Assembly Path="/Users/admin/RiderProjects/practice14/practice14/bin/Debug/EngineLib.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	
+	</wpf:ResourceDictionary>
